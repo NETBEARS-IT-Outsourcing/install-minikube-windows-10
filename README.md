@@ -1,5 +1,9 @@
 # Minikube on Windows 10
 
+## Provider
+The tutorial and explanation is also posted on the [NETBEARS](https://netbears.com/blog/install-minikube-windows10/) company blog. You might want to check the website out for more tutorials like this.
+
+## Steps
 - Enable Hyper-V from BIOS
 - Install Docker for Windows
 - Download kubectl + add to path
@@ -30,3 +34,8 @@ PS :
 minikube stop
 minikube start
 ```
+
+## Final notes
+Need help implementing this?
+
+Feel free to contact us using [this form](https://netbears.com/#contact-form).
